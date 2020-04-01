@@ -1,0 +1,1187 @@
+{
+  "listCommander": [
+    {
+      "commanderImage": "Julius Caesar",
+      "commanderName": "Julius Caesar",
+      "commanderTypeName": "Legendary",
+      "commanderPosition": [
+        {
+          "img": "Leadership",
+          "title": "Leadership"
+        },
+        {
+          "img": "Siege",
+          "title": "Siege"
+        },
+        {
+          "img": "Attack",
+          "title": "Attack"
+        }
+      ],
+      "civilizationDescription": "The Uncrowned Emperor",
+      "civilization": "Rome",
+      "commanderDescription": "Gaius Julius Caesar was a Roman politician and general who played a critic role in the events that led the rise of the Roman Empire. Caesar rose to become one of the most powerful politicians through a number of is accomplishments, notably his victories in the Gallic Wars. After assuming control of the government, Caesar began a program of social and governmental reforms, including the creation of the Julian Calendar. His populist and authoritarian reforms angered the elites, who began to conspire against him. On the Ides of March 44 BC, Caesar was assassinated by a group of rebellious senators led by Gaius Cassius Longinus, Marcus Junius Brutus, and Decimus Junius Brutus.",
+      "skills": [
+        {
+          "skillImage": "Indomitable_Army",
+          "skillName": "Indomitable Army",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Attack/Defense Bonus: 10% / 12% / 14% / 16% / 20%",
+            "Damage Bonus: 10% / 14% / 18% / 24% / 30%"
+          ],
+          "skillDescription": "For the next 5 seconds, increase troops’ attack and defense and increase all damage.For the next 5 seconds, increase troops’ attack and defense and increase all damage."
+        },
+        {
+          "skillImage": "Divine_Julius",
+          "skillName": "Divine Julius",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Taken Reduced By: 3% / 4.5% / 6% / 8% / 10%",
+            "Additional Damage Reduction: 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "Reduces damage taken by Caesar’s troops by [x]%. When Caesar’s army has been reduced to 60% or less of his units, he has a 10% chance to further reduce damage taken for the next 3 seconds whenever his troops are attacked. The effect can only trigger once every 5 seconds."
+        },
+        {
+          "skillImage": "City_Killer",
+          "skillName": "City Killer",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Defense Reduction: 5% / 10% / 15% / 20% / 30%"
+          ],
+          "skillDescription": "Caesar has a 10% chance to reduce enemy defense by [x]% per turn when attacking other Governor’s cities. The effect lasts for 3 seconds."
+        },
+        {
+          "skillImage": "The_Founders",
+          "skillName": "The Founders",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Troop Capacity Bonus: 3% / 6% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "Increases the maximum troops capacity by [x]%."
+        },
+        {
+          "skillImage": "Ahead_of_His_Time",
+          "skillName": "Ahead of His Time",
+          "skillType": "Expertise Skill",
+          "skillUpgrades": [],
+          "skillDescription": "Deals direct damage (Damage Factor 400) to the target, and, for the next 5 seconds, increases troops’ attack and defence by 20% and increases all damage by 30%."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Æthelflæd",
+      "commanderName": "Æthelflæd",
+      "commanderTypeName": "Legendary",
+      "civilization": "Britain",
+      "civilizationDescription": "Lady of the Mercians",
+      "commanderPosition": [
+        {
+          "img": "Leadership",
+          "title": "Leadership"
+        },
+        {
+          "img": "Peacekeeping",
+          "title": "Peacekeeping"
+        },
+        {
+          "img": "Support",
+          "title": "Support"
+        }
+      ],
+      "commanderDescription": "Aethelflaed, Lady of the Mercians ruled Mercia in the English Midlands from 911 until her death. She was teh eldest daughter of Alfred the Great, king of the Anglo-Saxon kingdom of Wessex, and his wife, Ealhswith.\nAethelflaed was born around 870 at the height of the Viking invasions of England. On her husband’s death in 911, Aetheflaed became Myrcna hlaedige, “Lady of the Mercians”.\nAetheflaed was a great ruler who played an important part in the conquest of the Danelaw.\nThe accession of a female ruler in Mercia is described by the historian Ian Walker as “one of the most unique events in early medieval history”.",
+      "skills": [
+        {
+          "skillImage": "Arrow_of_Iron",
+          "skillName": "Arrow of Iron",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor: 400/500/600/700/800",
+            "Attack, Defense and Health Reduction: 10%/15%/20%/25%/30%"
+          ],
+          "skillDescription": "Deals damage to a single target and reduce the target’s attack, defense and health for 5 seconds. Next, deals damage in a front-facing cone to up to 5 enemies and reduces their attack, defense and health for 2 seconds.\n\nDirect damage is decent but the 30% def & HP reduction open the huge nuking possibilities with the secondary commander"
+        },
+        {
+          "skillImage": "Thunderous_Force",
+          "skillName": "Thunderous Force",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Counterattack Damage Taken Reduction:\n\n5%/8%/11%/15%/20%",
+            "Cavalry March Speed Reduction: 20%/25%/30%/40%/50%",
+            "Other Unit March Speed Reduction: 10%/15%/20%/25%/30%"
+          ],
+          "skillDescription": "Counterattack damage against your troops is reduced. When actively attacking, you have a 10% chance to reduce the movement speed of enemy cavalry and the movement speed of other troops. Slow effect lasts 3 rounds.\nAll that AoE with secondary AoE commander is devastating. Slowing effect against high march speed enemies."
+        },
+        {
+          "skillImage": "Synergy",
+          "skillName": "Synergy",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Bonus Damage to Barbarians:5%/10%/17%/25%/35%"
+          ],
+          "skillDescription": "All troops under your command gain attack against Barbarians and other neutral units, and all Commanders get EXP bonus.\n\nBest Action Point saver with AoE secondary Commander."
+        },
+        {
+          "skillImage": "Fortress_of_Mercia",
+          "skillName": "Fortress of Mercia",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Rallied Army Capacity Bonus: 2%/4%/6%/8%/10%",
+            "Bonus Damage (3 Unit Types): 5%/8%/11%/15%/20%"
+          ],
+          "skillDescription": "When this Commander leads a rally attack, all armies joining the rally have higher troop limit. When this Commander is leading at least 3 different troop types, their damage is increased."
+        },
+        {
+          "skillImage": "Warrior_Queen",
+          "skillName": "Warrior Queen",
+          "skillType": "Passive",
+          "skillUpgrades": [],
+          "skillDescription": "Deal an extra 20% damage to enemies who have been slowed.\n\nFlat 20% attack boost, which is pretty huge. Capacity Bonus is also excellent. We are all going to use different types of troops, right?"
+        }
+      ]
+    },
+    {
+      "commanderImage": "Alexander the Great",
+      "commanderName": "Alexander the Great",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "World Conqueror",
+      "commanderPosition": [
+        {
+          "img": "Infantry",
+          "title": "Infantry"
+        },
+        {
+          "img": "Versatility",
+          "title": "Versatility"
+        },
+        {
+          "img": "Attack",
+          "title": "Attack"
+        }
+      ],
+      "commanderDescription": "Alexander the Great was an ancient Macedonian ruler and one of history’s greatest military minds who—as King of Macedonia and Persia—established the largest empire the ancient world had ever seen. By turns charismatic and ruthless, brilliant and power hungry, diplomatic and bloodthirsty, Alexander inspired such loyalty in his men they’d follow him anywhere and, if necessary, die in the process. Though Alexander the Great died before realizing his dream of uniting a new realm, his influence on Greek and Asian culture was so profound it inspired a new historical epoch—the Hellenistic Period.",
+      "skills": [
+        {
+          "skillImage": "Shield of the King",
+          "skillName": "Shield of the King",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Shield (Self) 600/700/800/1000/1200",
+            "Shield (Ally) 200/300/400/500/600"
+          ],
+          "skillDescription": "Alexander the Great puts up a powerful shield for 4 seconds and at the same time puts up a second, smaller shield for the nearby friendly army with the lowest percentage of troops remaining for 2 seconds (Alexander’s own army cannot gain this shield)."
+        },
+        {
+          "skillImage": "Lead the Charge",
+          "skillName": "Lead the Charge",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 800/1000/1200/1400/1700",
+            "Healing Effect Reduction 10%/15%/20%/25%/30%"
+          ],
+          "skillDescription": "When incoming damage would be reduced on the map, replace the damage reduction. Each normal attack agains a 10% chance to deal extra damage as well as to reduce the target’s healing effects by 10% for 5 seconds."
+        },
+        {
+          "skillImage": "Frontline Commander",
+          "skillName": "Frontline Commander",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Infantry March Speed Bonus: 10%/15%/20%/25%/30%",
+            "Infantry Attack Bonus: 10%/15%/20%/25%/30%"
+          ],
+          "skillDescription": "Increases infantry march speed on the map by 10% and attack by 10%"
+        },
+        {
+          "skillImage": "Battle of Chaeronea",
+          "skillName": "Battle of Chaeronea",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Attack Bonus: 20%/25%/30%/35%/40%",
+            "Defense Bonus: 10%/15%/20%/25%/305"
+          ],
+          "skillDescription": "Increases attack after using an ability. When his shield is activated, the bonus changes to defense."
+        },
+        {
+          "skillImage": "Son of Amun",
+          "skillName": "Son of Amun",
+          "skillType": "Passive",
+          "skillUpgrades": [],
+          "skillDescription": "Enhanced: Shield of the King. Immediately put up a shield which can absorb a large amount of damage (Damage Factor 1200) for 4 seconds. At the same time, Alexander puts up a second, smaller shield for the nearby friendly army with the lowest percentage of troops remaining (Damage Factor 600) for 2 seconds, and increases the damage taken overtime by nearby enemies (up to 3 targets) by 30% for 4 seconds."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Artemisia I",
+      "commanderName": "Artemisia I",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "Queen of Caria",
+      "commanderPosition": [
+        {
+          "img": "Archer",
+          "title": "Archer"
+        },
+        {
+          "img": "Garrison",
+          "title": "Garrison"
+        },
+        {
+          "img": "Defense",
+          "title": "Defense"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Battle of Salamis",
+          "skillName": "Shield of the King",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor: 800/1000/1200/1500/1800"
+          ],
+          "skillDescription": "Deals damage to own troops (Damage Factor 300) and deals damage to up to 3 enemies in a forward-facing fan-shaped area."
+        },
+        {
+          "skillImage": "Bow and Mount",
+          "skillName": "Bow and Mount",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Archer Defense Bonus: 5%/8%/11%/15%/20%",
+            "Archer Health Bonus: 5%/8%/11%/15%/20%"
+          ],
+          "skillDescription": "Increases archery units’ defense and health."
+        },
+        {
+          "skillImage": "Ally of Xerxes",
+          "skillName": "Ally of Xerxes",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Normal Attack Damage Reduction: 2%/4%/6%/8%/10%"
+          ],
+          "skillDescription": "While serving as a garrison commander, reduces incoming normal attack damage and each normal attack has a 10% chance to Disarm the target (disabling their normal attacks), lasts for 1 second."
+        },
+        {
+          "skillImage": "Queen of Caria",
+          "skillName": "Queen of Caria",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Increase: 25%/30%/35%/40%/50%"
+          ],
+          "skillDescription": "When rage accumulates to 80%, there’s a 50% chance to silence self for 3s, but increase all damage dealt for 5 seconds."
+        },
+        {
+          "skillImage": "Rules of Survival",
+          "skillName": "Rules of Survival",
+          "skillType": "Passive",
+          "skillUpgrades": [],
+          "skillDescription": "Normal attacks have a 10% chance to cause the target to continuously take damage (Damage Factor 400) each second, but also increases their skill damage by 15%, lasts for 3 seconds."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Attila",
+      "commanderName": "Attila",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "The Scourge of God",
+      "commanderPosition": [
+        {
+          "img": "Cavalry",
+          "title": "Cavalry"
+        },
+        {
+          "img": "Conquering",
+          "title": "Conquering"
+        },
+        {
+          "img": "Attack",
+          "title": "Attack"
+        }
+      ],
+      "commanderDescription": "Attila has the ability to become an incredible nuker, even though the third skill nerfs skill damage a little bit. If the 4th skill lines up and you’ve got the Expertise with the extra 20% increase, alongside the third skill triggering, you can pair him up with anybody.\nAttila being kind of a hybrid with having some very significant buffs and debuffs. The third skill while making it looks like you really don’t want to pair him up with a skill damage commander, once you get to the fourth and the fifth skill, these are basically like having a bonus Sun Tzu in your army with the 20% damaged bonus.\nThe 4th skill is basically like having a boosted Eulji in your army. Instead of it just being for troop attack, it is for all damage coming out. It’s huge!\nAttila paired up with Genghis makes a lot of sense. They are meant to work together! They are a perfect combination for those of you who want to really focus on Cavalry but also want to have the utility and the survivability of Infantry. If you pair these two up, the amount of troop damage that you’re going to be putting out is nuts.\nYou’re gonna lose some of the nuke damage due to the 4th skill here but you’re gonna gain so much sustainability from all the troop attack, the counter-attack, the defense bonuses, all the debuffs that are gonna be causing on your enemies. Not only those.\nAll the other troops that you’re gonna be using in your rally together really make you super tanky. All the damage you’re gonna be putting out are raw troop damage. It’s just really significant.",
+      "skills": [
+        {
+          "skillImage": "King of the Huns",
+          "skillName": "King of the Huns",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Normal Attack Damage Bonus 10%/15%/20%/25%/30%",
+            "Counterattack Damage Bonus 10%/15%/20%/25%/30%",
+            "Enemy Attack Reduction 20%/25%/30%/40%/50%"
+          ],
+          "skillDescription": "For the next 4 seconds, increases normal attack damage and counterattack damage, and normal attacks have a 50% chance to reduce enemy attack  for 2 seconds."
+        },
+        {
+          "skillImage": "The Siege of Constantinople",
+          "skillName": "The Siege of Constantinople",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Bonus 2%/4%/6%/8%/10%",
+            "Damage Reduction 5%/10%/15%/20%/25%"
+          ],
+          "skillDescription": "When attacking Garrisons, increases all damage dealt, and has a 10% chance every turn to reduce the garrison’s defense for 3 seconds."
+        },
+        {
+          "skillImage": "Honoria",
+          "skillName": "Honoria",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Skill Damage Taken Reduction 3%/6%/9%/12%/15%",
+            "Cavalry March Speed Bonus 3%/6%/9%/12%/15%",
+            "Cavalry Attack Bonus 20%/25%/30%/35%/40%"
+          ],
+          "skillDescription": "Skill damage against troops led by Attila is reduced, and the skill damage dealt by his own troops is also reduced. Increases cavalry units’ March Speed and Attack."
+        },
+        {
+          "skillImage": "Battle of the Catalaunian Plains",
+          "skillName": "Battle of the Catalaunian Plains",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Bonus Damage (25% Chance) 25%/30%/35%/40%/50%",
+            "Bonus Damage (25% Chance) 50%/60%/70%/80%/100%"
+          ],
+          "skillDescription": "When the army led by Attila contains only cavalry units, normal attacks have a chance to increase to his own troops’ all damage dealt for the next 2 turns; has a 25% chance to increase all damage dealt by X%, and has a 25% chance to increase all damage dealt by Y%."
+        },
+        {
+          "skillImage": "The Scourge of God",
+          "skillName": "The Scourge of God",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Troops led by Attila are immune to Silence effects. Against enemy troops with less than 50% strength, increases damage dealt by 20%. Increases March Speed by 50% for 3 seconds after leaving the battle."
+        }
+      ]
+    },
+    {
+      "commanderImage": "CAO CAO",
+      "commanderName": "CAO CAO",
+      "commanderTypeName": "Legendary",
+      "civilization": "China",
+      "civilizationDescription": "Conqueror of Chaos",
+      "commanderPosition": [
+        {
+          "img": "Cavalry",
+          "title": "Cavalry"
+        },
+        {
+          "img": "Peacekeeping",
+          "title": "Peacekeeping"
+        },
+        {
+          "img": "Mobility",
+          "title": "Mobility"
+        }
+      ],
+      "commanderDescription": "Cao Cao, courtesy name Mengde, was a Chinese warlord and the penultimate Chancellor of the Eastern Han dynasty.\nAs one of the central figures of the Three Kingdoms period, he laid the foundations for what was to become the state of Cao Wei and was posthumously honoured as “Emperor Wu of Wei”.\nHe is often portrayed as a cruel and merciless tyrant in subsequent literature; however, he has also been praised as a brilliant ruler and military genius who treated his subordinates like his family.\nCao Cao had much success as the Haan chancellor, but his handling of the Han emperor Liu Xie was heavily criticized and resulted in a continued and then escalated civil war.",
+      "skills": [
+        {
+          "skillImage": "Dragon Rider",
+          "skillName": "Dragon Rider",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 600 / 800 / 1000 / 1200 / 1400",
+            "Attack Reduction 20% / 25% / 30% / 35% / 40%",
+            "March Speed Reduction 5% / 6% / 7% / 8% / 10%"
+          ],
+          "skillDescription": "Deals direct damage to the target, and decreases target’s attack and march speed for 3 seconds."
+        },
+        {
+          "skillImage": "The Qingzhou Army",
+          "skillName": "The Qingzhou Army",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Bonus Damage To Barbarians: 10% / 20% / 30% / 40% / 50%"
+          ],
+          "skillDescription": "Increases the damage on Barbarians."
+        },
+        {
+          "skillImage": "Tiger Knight",
+          "skillName": "Tiger Knight",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Cavalry March Speed Bonus: 3% / 4.5% / 6% / 8% / 10%",
+            "Cavalry Attack Bonus: 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "Increases cavalry units’ march speed and attack."
+        },
+        {
+          "skillImage": "Lofty Ambition",
+          "skillName": "Lofty Ambition",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Healing Factor Bonus: 500 / 600 / 700 / 800 / 1000",
+            "Rage Restored: 50 / 60 / 70 / 80 / 100"
+          ],
+          "skillDescription": "Troops’ normal attacks have a 10% chance to heal a portion of the slightly wounded units, restores rage, and increases troops’ march speed by 20% for 3 seconds. Effect can only trigger once every 2 seconds."
+        },
+        {
+          "skillImage": "Emperor Wu of Wei",
+          "skillName": "Emperor Wu of Wei",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Increases cavalry attack by 25%, decreases troop defense by 10%"
+        }
+      ]
+    },
+    {
+      "commanderImage": "Charlemagne",
+      "commanderName": "Charlemagne",
+      "commanderTypeName": "Legendary",
+      "civilization": "France",
+      "civilizationDescription": "Pater Europae",
+      "commanderPosition": [
+        {
+          "img": "Leadership",
+          "title": "Leadership"
+        },
+        {
+          "img": "Conquering",
+          "title": "Conquering"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "Charlemagne (c.742-814), also known as Karl and Charles the Great, was a medieval emperor who ruled much of Western Europe from 768 to 814. In 771, Charlemagne became king of the Franks, a Germanic tribe in present-day Belgium, France, Luxembourg, the Netherlands and western Germany. He embarked on a mission to unite all Germanic peoples into one kingdom, and convert his subjects to Christianity. A skilled military strategist, he spent much of his reign engaged in warfare in order to accomplish his goals. In 800, Pope Leo III (750-816) crowned Charlemagne emperor of the Romans. In this role, he encouraged the Carolingian Renaissance, a cultural and intellectual revival in Europe. When he died in 814, Charlemagne’s empire encompassed much of Western Europe, and he had also ensured the survival of Christianity in the West. Today, Charlemagne is referred to by some as the father of Europe.",
+      "skills": [
+        {
+          "skillImage": "Eagle of Jupiter",
+          "skillName": "Eagle of Jupiter",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor: 600/ 800/ 1000/ 1200/ 1400"
+          ],
+          "skillDescription": "Deal direct damage to a single target (Damage Factor 600)"
+        },
+        {
+          "skillImage": "Happy Home",
+          "skillName": "Happy Home",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor: 500/ 600/ 700/ 800/ 1000"
+          ],
+          "skillDescription": "While on the map, all troops under your command have a 10% chance to gain a shield when they are attacked. This shield lasts for 4 seconds and can take a large amount of damage (damage factor 500)."
+        },
+        {
+          "skillImage": "Plot Maneuvers",
+          "skillName": "Plot Maneuvers",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Rallied Army Attack/Defense Bonus: 2% /4% /6% /8% /10%"
+          ],
+          "skillDescription": "When this Commander initiates a Rally attack, increase the attack and defense of all rallied troops by 2%"
+        },
+        {
+          "skillImage": "Paladin",
+          "skillName": "Paladin",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Skill Damage Increase (Every 10%): 1% /2% /3% /4% /5%",
+            "Skill Damage When Attacking Cities Increase (Every 10%): 2% /3% /4% /5% /7%",
+            "Skill Damage Increase (Max): 3% /6% /9% /12% /15%",
+            "Skill Damage When Attacking Cities Increase (Max): 6% /9% /12% /15% /21%"
+          ],
+          "skillDescription": "For each 10% Charlemagne's troop count decrease, skill damage increases 1% (+2% when attacking cities). When his troop count is less than 70%, skill damage is increased to a maximum of 3% (+6 when attacking cities)."
+        },
+        {
+          "skillImage": "Carolingian Renassance",
+          "skillName": "Carolingian Renassance",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "When attacking a city, 10% fewer of troops will die and instead will be serverly wounded."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Charles Martel",
+      "commanderName": "Charles Martel",
+      "commanderTypeName": "Legendary",
+      "civilization": "France",
+      "civilizationDescription": "The Immortal Hammer",
+      "commanderPosition": [
+        {
+          "img": "Infantry",
+          "title": "Infantry"
+        },
+        {
+          "img": "Garrison",
+          "title": "Garrison"
+        },
+        {
+          "img": "Defense",
+          "title": "Defense"
+        }
+      ],
+      "commanderDescription": "Charles Martel was a Frankish statesman and military leader who as Duke and Prince of the Franks and Mayor of the Palace, was the facto ruler of Francia from 718 until his death.\nIn 732, the army of the Umayyad Caliphate led by Al Ghhafiqiii met Frankish and Burgundian forces under Charles in an area between the cities of Tours and Poitiers, leading to a decisive, historically important Frankish victory known as the Battle of Tours, ending the “last of the great Arab invasion of France”, a military victory termed “brilliant” on the part of Charles.\nCharles is also considered to be a founding figure of the European Middle Ages.\nSkilled as an administrator as well as a warrior, he is credited with a seminal role in the emerging responsibilities of the knights of courts, and so in the development of the Frankish system of feudalism.",
+      "skills": [
+        {
+          "skillImage": "Shield of Francia",
+          "skillName": "Shield of Francia",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 600 / 700 / 800 / 1000 / 1200",
+            "Damage Bonus 10% / 14% / 18% / 24% / 30%"
+          ],
+          "skillDescription": "Charles activates a shield that can absorb massive damage for the next 4 seconds. Also increases troops’ damage while the shield is active."
+        },
+        {
+          "skillImage": "Heavy Infantry",
+          "skillName": "Heavy Infantry",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Infantry Defense Bonus 5% / 7% / 9% / 12% / 15%",
+            "Infantry Health Bonus 5% / 7% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "Increases infantry units’ defense and health."
+        },
+        {
+          "skillImage": "The Uncrowned King",
+          "skillName": "The Uncrowned King",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Watchtower Defense Bonus 2% / 4% / 6% / 8% / 10%"
+          ],
+          "skillDescription": "Increases watchtower defense and garrison damage when this commander is serving as a garrison commander."
+        },
+        {
+          "skillImage": "Martel’s Counterattack",
+          "skillName": "Martel’s Counterattack",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Counterattack Damage Bonus 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "Increases troops’ counterattack damage."
+        },
+        {
+          "skillImage": "Rise from the Ashes",
+          "skillName": "Rise from the Ashes",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Increases infantry units’ defense by 20%, health by 20%, and march speed by 20%."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Edward of Woodstock",
+      "commanderName": "Edward of Woodstock",
+      "commanderTypeName": "Legendary",
+      "civilization": "Britain",
+      "civilizationDescription": "The Black Prince",
+      "commanderPosition": [
+        {
+          "img": "Archer",
+          "title": "Archer"
+        },
+        {
+          "img": "Versatility",
+          "title": "Versatility"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Archer’s Honor",
+          "skillName": "Archer’s Honor",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor:1500/1700/1900/2200/2500",
+            "Damage Factor (When Secondary Commander) 750/850/950/1100"
+          ],
+          "skillDescription": "Deals massive damage to a single target (Damage Factor 1500, 750 if this commander is serving as a secondary commander). Once used, it will reduce the rage of Edward’s troops by 300 (cannot drop below 0 rage)."
+        },
+        {
+          "skillImage": "Vengeful Crusade",
+          "skillName": "Vengeful Crusade",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Archer Health Bonus: 10%/ 15%/ 20%/ 25%/ 30%",
+            "Archer March Speed Bonus: 10%/ 15%/ 20%/ 25%/ 30%"
+          ],
+          "skillDescription": "Increases archer units health by 10% and march speed by 10% while troops are on the map."
+        },
+        {
+          "skillImage": "Crecy’s Campaign",
+          "skillName": "Crecy’s Campaign",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Skill Damage Bonus: 5%/ 10%/ 15%/ 20%/ 25%",
+            "Damage To Infantry Units Increased By 1%/ 2%/ 3%/ 4%/ 5%"
+          ],
+          "skillDescription": "When the army led by this commander contains only archer units, increases skill damage by 5% and increases damage dealt to Infantry units by archer units by 1%."
+        },
+        {
+          "skillImage": "Limoges’ Ambush",
+          "skillName": "Limoges’ Ambush",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Upgrade Attack Bonus 15%/ 20%/ 25%/ 30%/ 40%"
+          ],
+          "skillDescription": "When army led by this commander is at 70% strength or higher, increases attack of archer units by 15% and decreases defense by 10%."
+        },
+        {
+          "skillImage": "Limoges’ Ambush",
+          "skillName": "Limoges’ Ambush",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Increase normal attack and counterattack damage by 50% for 2 seconds after using a skill."
+        }
+      ]
+    },
+    {
+      "commanderImage": "El Cid",
+      "commanderName": "El Cid",
+      "commanderTypeName": "Legendary",
+      "civilization": "Spain",
+      "civilizationDescription": "Holy Overlord",
+      "commanderPosition": [
+        {
+          "img": "Archer",
+          "title": "Archer"
+        },
+        {
+          "img": "Versatility",
+          "title": "Versatility"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Famous Warrior",
+          "skillName": "Famous Warrior",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor: 500 / 600 / 700 / 800 / 1000"
+          ],
+          "skillDescription": "Deals direct damage to the target, and disables target’s normal attacks and active skills for 1 second."
+        },
+        {
+          "skillImage": "Poem of El Cid",
+          "skillName": "Poem of El Cid",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Additional Damage Factor: 500 / 600 / 700 / 800 / 1000"
+          ],
+          "skillDescription": "El Cid’s troops have a 10% chance to deal additional damage to the target."
+        },
+        {
+          "skillImage": "Guardian of Valencia",
+          "skillName": "Guardian of Valencia",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Archer Defence Bonus: 10% / 12% / 14% / 16% / 20%",
+            "Archer March Speed Bonus: 5% / 7% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "Increases archer units’ defense and march speed."
+        },
+        {
+          "skillImage": "Unyielding",
+          "skillName": "Unyielding",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Bonus: 5% / 10% / 15% / 20% / 25%",
+            "March Speed Bonus: 5% / 10% / 15% / 20% / 25%"
+          ],
+          "skillDescription": "When Cid’s army has been reduced to less than 50% of his units, increases the damage of all troops and march speed of all troops. The effect lasts until the army is disbanded."
+        },
+        {
+          "skillImage": "Out of Control",
+          "skillName": "Out of Control",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Increases damage dealt to infantry units by archer units by 5%, and decreases damage taken from infantry units by archer units by 5%."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Frederick I",
+      "commanderName": "Frederick I",
+      "commanderTypeName": "Legendary",
+      "civilization": "Germany",
+      "civilizationDescription": "Barbarossa",
+      "commanderPosition": [
+        {
+          "img": "Leader",
+          "title": "Leader"
+        },
+        {
+          "img": "Conquering",
+          "title": "Conquering"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "Frederick I, also known as Frederick Barbarossa, was the Holy Roman Emperor from 1155 until his death.\nHistorians consider him among the Holy Roman Empire’s greatest medieval emperors.\nHe combined qualities that made him appear almost superhuman to his contemporaries: his ambition, his skills at organization, his battlefield acumen and his political perspicuity.\nAmong his contribution to Central European society and culture include the re-establishment of the Corpus Juris Civilis, or the Roman rule of law, which counterbalanced the papal power that dominated the German states since the conclusion of the Investiture Controversy.\nFrederick died in 1190 in Asia Minor while leading an army in the Third Crusade.",
+      "skills": [
+        {
+          "skillImage": "Barbarossa",
+          "skillName": "Barbarossa",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 400 / 500 / 600 / 700 / 800"
+          ],
+          "skillDescription": "For the next 3 seconds, all attacks have a 80% chance to deal additional damage to the target."
+        },
+        {
+          "skillImage": "Never Give Up",
+          "skillName": "Never Give Up",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Healing Factor: 500 / 600 / 700 / 800 / 1000"
+          ],
+          "skillDescription": "Troops’ normal attack has a 10% chance to heal a portion of the slightly wounded units. This effect can only trigger once every 5 seconds."
+        },
+        {
+          "skillImage": "Invasion",
+          "skillName": "Invasion",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Infantry Attack Bonus: 2% / 4% / 6% / 8% / 10%"
+          ],
+          "skillDescription": "Increases all damage when attacking other Governors’ cities."
+        },
+        {
+          "skillImage": "King of Deutschland",
+          "skillName": "King of Deutschland",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Troop Capacity Bonus: 3% / 6% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "Increases maximum troop capacity."
+        },
+        {
+          "skillImage": "Furious Barbarossa",
+          "skillName": "Furious Barbarossa",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "For the next 3 seconds, all attacks have a 100% chance to deal additional damage (Damage Factor 800) to the target."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Genghis Khan",
+      "commanderName": "Genghis Khan",
+      "commanderTypeName": "Legendary",
+      "civilization": "Mongol",
+      "civilizationDescription": "First Khagan",
+      "commanderPosition": [
+        {
+          "img": "Cavalry",
+          "title": "Cavalry"
+        },
+        {
+          "img": "Versatility",
+          "title": "Versatility"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Chosen One",
+          "skillName": "Chosen One",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 800/1000/1200/1400/1700"
+          ],
+          "skillDescription": "Attacks a single target, dealing massive damage"
+        },
+        {
+          "skillImage": "Cyclone of the Steppes",
+          "skillName": "Cyclone of the Steppes",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Rage Requirement Reduction 20/40/60/80/100",
+            "Cavalry March Speed Bonus 3%/6%/9%/12%/15%"
+          ],
+          "skillDescription": "Reduces rage cost of abilities by 20 and increases cavalry march speed. When troops led by this commander are attacked, this march speed bonus will be lost, and troop march speed will be further reduced 30%"
+        },
+        {
+          "skillImage": "Nomadic Empire",
+          "skillName": "Nomadic Empire",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Bonus 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "While the army led by this commander is at more than 70% strength, and contains only cavalry units, increases all damage dealt."
+        },
+        {
+          "skillImage": "Military Lifestyle",
+          "skillName": "Military Lifestyle",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Skill Damage Bonus 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "While the army led by this commander is at less than 50% strength and contains only cavalry units, increases skill damage dealt and gains additional rage when attacked."
+        },
+        {
+          "skillImage": "Second to None",
+          "skillName": "Second to None",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "While the army led by this commander contains only cavalry units, after casting the Chosen One skill, has a 30% chance to cast a level 5 Chosen One against instantly."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Guan Yu",
+      "commanderName": "Guan Yu",
+      "commanderTypeName": "Legendary",
+      "civilization": "China",
+      "civilizationDescription": "Lord of the Magnificent Beard",
+      "commanderPosition": [
+        {
+          "img": "Infantry",
+          "title": "Infantry"
+        },
+        {
+          "img": "Conquering",
+          "title": "Conquering"
+        },
+        {
+          "img": "Skill",
+          "title": "Skill"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Saint of War",
+          "skillName": "Saint of War",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Damage Factor (When Secondary Commander): 550 / 650 / 750 / 850 / 1000",
+            "Direct Damage Factor: 1100 1300 / 1500 / 1700 / 2000"
+          ],
+          "skillDescription": "Deals direct damage to up to 3 enemies in a fan-shaped area and silences the targets for 3 seconds. When Guan Yu is serving as the primary commander, increase Damage Factor."
+        },
+        {
+          "skillImage": "Five Tiger Generals",
+          "skillName": "Five Tiger Generals",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Normal Attack Damage Bonus: 3%/ 6%/ 9%/ 12%/ 15%",
+            "Attack Reduction: 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "When attacking garrisons, increases normal attack damage. Normal attacks have a 10% chance to reduce a single target’s attack for 3 seconds."
+        },
+        {
+          "skillImage": "The Slaying of Hua Xiong",
+          "skillName": "The Slaying of Hua Xiong",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Infantry Attack Bonus: 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "Increases infantry units’ attack and march speed. Upon leaving battle, Guan Yu heals a portion of slightly wounded units."
+        },
+        {
+          "skillImage": "Green Dragon Crescent Blade",
+          "skillName": "Green Dragon Crescent Blade",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Additional Damage Factor: 600 / 700 / 800 / 900 / 1000",
+            "Additional Damage Factor: 800 / 900 / 1000 / 1200 / 1400"
+          ],
+          "skillDescription": "When the skill “Saint of War” hits only 1 target, there is a 50% chance to deal additional damage to the target. When the skill hits 2 or more targets, there is a 50% chance to deal additional damage to the current target."
+        },
+        {
+          "skillImage": "Lone Rider",
+          "skillName": "Lone Rider",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Whenever Guan Yu gains a shield, he also increases his active skill damage by 15% for 3 seconds. Whenever Guan Yu leaves a structure, he increases his march speed by 100% for 3 seconds."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Hannibal Barca",
+      "commanderName": "Hannibal Barca",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "Carthage’s Guardian",
+      "commanderPosition": [
+        {
+          "img": "Leadership",
+          "title": "Leadership"
+        },
+        {
+          "img": "Conquering",
+          "title": "Conquering"
+        },
+        {
+          "img": "Defense",
+          "title": "Defense"
+        }
+      ],
+      "commanderDescription": "Hannibal Barca was a Carthaginian general, considered one of the greatest military commanders in history.\nHis father Hamilcar Barca was the leading Carthaginian commander during the First Punic War.\nHis younger brothers were Mago and Hasdrubal, and he was brother-in-law to Hasdrubal the Fair.\nHannibal lived during a period of great tension in the western Mediterranean Basin when the Roman Republic established its supremacy over great powers such as ancient Carthage, the Etruscans, Samnites and the Greek king of Syracuse. One of his most famous achievements was the outbreak of the Second Punic War when he marched an army which included war elephants from Iberia over the Pyrenees and the Alps into Italy.\nIn his first few years in Italy, he won three dramatic victories – the Trebia, Lake Trasimene, and Cannae, in which he distinguished himself for his ability to determine his and his opponents’ respective strengths and weaknesses, and to plan the battle accordingly – and won over many allies of Rome.\nHannibal occupied much of Italy for 15 years but was unable to march on Rome. An enemy counter-invasion of Nort Africa forced him to return to Carthage, where he was decisively defeated by Scipio Africanus at the Battle of Zama.",
+      "skills": [
+        {
+          "skillImage": "War Elephants",
+          "skillName": "War Elephants",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Direct Damage Factor 150 / 200 / 250 / 300 / 400",
+            "Damage/Defense Reduction 10% / 13% / 16% / 20% / 25%"
+          ],
+          "skillDescription": "Deals direct damage to a single target then decreases target’s damage and defense for the next 5 seconds."
+        },
+        {
+          "skillImage": "Envelopment Tactics",
+          "skillName": "Envelopment Tactics",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Bonus Damage (2 Unit Types)\n\n1% / 2% / 3% / 4% / 5%",
+            "Bonus Damage (3 Unit Types) 5% / 6% / 7% / 8% / 10%"
+          ],
+          "skillDescription": "When Hannibal’s army contains 2 different unit types, all damage is increased. If this army contains 3 different types, all damage is even further increased. (Warriors and swordsmen are the same unit type, while warriors and slingers are different unit types.)"
+        },
+        {
+          "skillImage": "Siege",
+          "skillName": "Siege",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Healing Factor 500 / 600 / 700 / 800 / 1000"
+          ],
+          "skillDescription": "When attacking other Goverrnors’ garrisons, Hannibal has a 10% chance to heal some of his slightly wounded units."
+        },
+        {
+          "skillImage": "Expedition",
+          "skillName": "Expedition",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Troop Capacity Bonus 3% / 4.5% / 6% / 8% / 10%",
+            "Damage Bonus 5% / 7% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "Increases troop capacity. When battling outside of alliance territory, increases the damage of all Hannibal’s troops for 3 seconds after using a skill."
+        },
+        {
+          "skillImage": "War Elephant Trample",
+          "skillName": "War Elephant Trample",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Deals direct damage (Damage Factor 400) to a single target then deals additional damage (Damage Factor 300) to 3 targets in a forward direrction on the next turn and decreases damage of the 3 targets by 25% and defense by 25% for 3 seconds."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Ishida Mitsunari",
+      "commanderName": "Ishida Mitsunari",
+      "commanderTypeName": "Legendary",
+      "civilization": "Japan",
+      "civilizationDescription": "Tragic Hero of Azuchi-Momoyama",
+      "commanderPosition": [
+        {
+          "img": "Integration",
+          "title": "Integration"
+        },
+        {
+          "img": "Gathering",
+          "title": "Gathering"
+        },
+        {
+          "img": "Support",
+          "title": "Support"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "Battle of Sekigahara",
+          "skillName": "Battle of Sekigahara",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Attack Bonus: 10% / 15% / 20% / 25% / 30%",
+            "Speed of Rage Gained: 10% / 15% / 20% / 25% / 30%"
+          ],
+          "skillDescription": "For the next 3 seconds, increase attacks of all troops led by Ishida and increases the speed of rage gained."
+        },
+        {
+          "skillImage": "Go-Bugyo",
+          "skillName": "Go-Bugyo",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Bonus Gathering Speed (Food): 5% / 10% / 15% / 20% / 30%",
+            "Bonus Gathering Speed (Other Resources): 3% / 5% / 10% / 15% / 20%"
+          ],
+          "skillDescription": "Increases food, wood and stone gathering speed."
+        },
+        {
+          "skillImage": "Taiko-kenchi",
+          "skillName": "Taiko-kenchi",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Load Bonus: 10% / 20% / 30% / 40% / 50%"
+          ],
+          "skillDescription": "Increases load of troops led by Ishida."
+        },
+        {
+          "skillImage": "Indispensable",
+          "skillName": "Indispensable",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Health Bonus: 5% / 7% / 9%/ 12% / 15%"
+          ],
+          "skillDescription": "Increases troop health. When serving as the secondary commander, increases active skill damage."
+        },
+        {
+          "skillImage": "Three Cups of Tea",
+          "skillName": "Three Cups of Tea",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "Ishida’s troops’ normal attacks have a 10% chance to heal a portion of slightly wounded units (Healing Factor 500), this effect can only trigger once every 3 seconds."
+        }
+      ]
+    },
+    {
+      "commanderImage": "Leonidas I",
+      "commanderName": "Leonidas I",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "",
+      "commanderPosition": [
+        {
+          "img": "Infantry",
+          "title": "Infantry"
+        },
+        {
+          "img": "Versatility",
+          "title": "Versatility"
+        },
+        {
+          "img": "Defense",
+          "title": "Defense"
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "King of Sparta",
+          "skillName": "King of Sparta",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            "Health Bonus: 10% / 15% / 20% / 25% / 30%",
+            "Direct Damage Factor: 200 / 300 / 400 / 500 / 600"
+          ],
+          "skillDescription": "Increases the health of troops led by Leonidas I by 10% for 3 seconds. Deals damage to up to 3 targets a fan-shaped area (Damage Factor 200). Targets under the effects of Silence or Attack Reduction will take an additional 50% damage."
+        },
+        {
+          "skillImage": "Three Hundred Spartans",
+          "skillName": "Three Hundred Spartans",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Defense Bonus: 10% / 15% / 20% / 25% / 30%",
+            "Speed of Rage Gained: 5% / 7% / 9% / 12% / 15%"
+          ],
+          "skillDescription": "When the army led by this commander contains only infantry units, increases defense , and increases the speed of rage gained."
+        },
+        {
+          "skillImage": "Honorable Sacrifice",
+          "skillName": "Honorable Sacrifice",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Shield (Self): 600 / 650 / 700 / 750 / 800",
+            "Attack Bonus: 3%/ 6% / 9% / 12%/ 15%"
+          ],
+          "skillDescription": "When the army led by this commander has been reduced to less than 50% strength, there is a chance to gain a shield when attacked for 3 seconds. While the shield lasts, increase the attack of troops."
+        },
+        {
+          "skillImage": "Son of the Lion",
+          "skillName": "Son of the Lion",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "Damage Bonus: 5% / 6% / 7% / 8% / 10%"
+          ],
+          "skillDescription": "While on the map, Leonidas Is attacks have a 25% chance to increase all damage dealt by his own troops by 5%, lasts for 5 seconds and stacks up to 4 times."
+        },
+        {
+          "skillImage": "Battle of Thermopylae",
+          "skillName": "Battle of Thermopylae",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": "When the army led by this commander has been reduced to less than 10% strength, increase all damage dealt by 400% and increase damage reduction by 50%, lasts for 10 seconds. This effect can trigger only once per hour after the army has left the city"
+        }
+      ]
+    },
+    {
+      "commanderImage": "",
+      "commanderName": "",
+      "commanderTypeName": "Legendary",
+      "civilization": "Others",
+      "civilizationDescription": "",
+      "commanderPosition": [
+        {
+          "img": "",
+          "title": ""
+        },
+        {
+          "img": "",
+          "title": ""
+        },
+        {
+          "img": "",
+          "title": ""
+        }
+      ],
+      "commanderDescription": "",
+      "skills": [
+        {
+          "skillImage": "",
+          "skillName": "",
+          "skillType": "Active Skill",
+          "skillUpgrades": [
+            ""
+          ],
+          "skillDescription": ""
+        },
+        {
+          "skillImage": "",
+          "skillName": "",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            "",
+            ""
+          ],
+          "skillDescription": ""
+        },
+        {
+          "skillImage": "",
+          "skillName": "",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            ""
+          ],
+          "skillDescription": ""
+        },
+        {
+          "skillImage": "",
+          "skillName": "",
+          "skillType": "Passive Skill",
+          "skillUpgrades": [
+            ""
+          ],
+          "skillDescription": ""
+        },
+        {
+          "skillImage": "",
+          "skillName": "",
+          "skillType": "Expertise",
+          "skillUpgrades": [],
+          "skillDescription": ""
+        }
+      ]
+    }
+  ]
+}
