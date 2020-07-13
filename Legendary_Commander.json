@@ -1,19 +1,19 @@
 {
     "position" : [
-        {"Cavalry":"https://cdn.rok.guide/images/cavalry.png"},
-        {"Conquering":"https://cdn.rok.guide/images/siege.png"},
-        {"Attack":"https://cdn.rok.guide/images/attack.png"},
-        {"Leadership":"https://cdn.rok.guide/images/leadership.png"},
-        {"Siege":"https://cdn.rok.guide/images/siege.png"},
-        {"Peacekeeping":"https://cdn.rok.guide/images/peacekeeping.png"},
-        {"Support":"https://cdn.rok.guide/images/support.png"},
-        {"Archer":"https://cdn.rok.guide/images/archer.png"},
-        {"Garrison":"https://cdn.rok.guide/images/garrison.png"},
-        "Defense":"https://cdn.rok.guide/images/defense.png"},
-        {"Versatility":"https://cdn.rok.guide/images/vesatility.png"},
-        {"Skill":"https://cdn.rok.guide/images/skill.png"},
-        {"Infantry":"https://cdn.rok.guide/images/infantry.png"},
-        {"Mobility":"https://cdn.rok.guide/images/mobility.png"},
+        {"title": "Cavalry","image":"https://cdn.rok.guide/images/cavalry.png"},
+        {"title": "Conquering","image":"https://cdn.rok.guide/images/siege.png"},
+        {"title": "Attack","image":"https://cdn.rok.guide/images/attack.png"},
+        {"title": "Attack","image":"https://cdn.rok.guide/images/leadership.png"},
+        {"title": "Siege","image":"https://cdn.rok.guide/images/siege.png"},
+        {"title": "Peacekeeping","image":"https://cdn.rok.guide/images/peacekeeping.png"},
+        {"title": "Support","image":"https://cdn.rok.guide/images/support.png"},
+        {"title": "Archer","image":"https://cdn.rok.guide/images/archer.png"},
+        {"title": "Garrison","image":"https://cdn.rok.guide/images/garrison.png"},
+        {"title": "Defense","image":"https://cdn.rok.guide/images/defense.png"},
+        {"title": "Versatility","image":"https://cdn.rok.guide/images/vesatility.png"},
+        {"title": "Skill","image":"https://cdn.rok.guide/images/skill.png"},
+        {"title": "Infantry","image":"https://cdn.rok.guide/images/infantry.png"},
+        {"title": "Mobility","image":"https://cdn.rok.guide/images/mobility.png"}
     ],
   "listCommander": [
     {
