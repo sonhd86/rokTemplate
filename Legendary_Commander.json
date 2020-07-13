@@ -1,7 +1,23 @@
 {
+    "position" : [
+        {"Cavalry":"https://cdn.rok.guide/images/cavalry.png"},
+        {"Conquering":"https://cdn.rok.guide/images/siege.png"},
+        {"Attack":"https://cdn.rok.guide/images/attack.png"},
+        {"Leadership":"https://cdn.rok.guide/images/leadership.png"},
+        {"Siege":"https://cdn.rok.guide/images/siege.png"},
+        {"Peacekeeping":"https://cdn.rok.guide/images/peacekeeping.png"},
+        {"Support":"https://cdn.rok.guide/images/support.png"},
+        {"Archer":"https://cdn.rok.guide/images/archer.png"},
+        {"Garrison":"https://cdn.rok.guide/images/garrison.png"},
+        "Defense":"https://cdn.rok.guide/images/defense.png"},
+        {"Versatility":"https://cdn.rok.guide/images/vesatility.png"},
+        {"Skill":"https://cdn.rok.guide/images/skill.png"},
+        {"Infantry":"https://cdn.rok.guide/images/infantry.png"},
+        {"Mobility":"https://cdn.rok.guide/images/mobility.png"},
+    ],
   "listCommander": [
     {
-      "commanderImage": "Julius Caesar",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2018/12/rise-of-civilizations-julius-caesar-274x300.png",
       "commanderName": "Julius Caesar",
       "commanderTypeName": "Legendary",
       "commanderPosition": [
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "commanderImage": "Æthelflæd",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/06/aethelflaed-rise-of-kingdoms.png",
       "commanderName": "Æthelflæd",
       "commanderTypeName": "Legendary",
       "civilization": "Britain",
@@ -141,7 +157,7 @@
       ]
     },
     {
-      "commanderImage": "Alexander the Great",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/06/alexander-rise-of-kingdoms-181x300.png",
       "commanderName": "Alexander the Great",
       "commanderTypeName": "Legendary",
       "civilization": "Others",
@@ -212,7 +228,7 @@
       ]
     },
     {
-      "commanderImage": "Artemisia I",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2020/03/artemisia-i-178x300.jpg",
       "commanderName": "Artemisia I",
       "commanderTypeName": "Legendary",
       "civilization": "Others",
@@ -280,7 +296,7 @@
       ]
     },
     {
-      "commanderImage": "Attila",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/11/attila-rise-of-kingdoms-264x300.jpg",
       "commanderName": "Attila",
       "commanderTypeName": "Legendary",
       "civilization": "Others",
@@ -353,7 +369,7 @@
       ]
     },
     {
-      "commanderImage": "CAO CAO",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/02/cao-cao-300x285.png",
       "commanderName": "CAO CAO",
       "commanderTypeName": "Legendary",
       "civilization": "China",
@@ -424,7 +440,7 @@
       ]
     },
     {
-      "commanderImage": "Charlemagne",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/06/charlemagne-rise-of-kingdoms-300x300.jpg",
       "commanderName": "Charlemagne",
       "commanderTypeName": "Legendary",
       "civilization": "France",
@@ -494,7 +510,7 @@
       ]
     },
     {
-      "commanderImage": "Charles Martel",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/02/charles-martel-264x300.png",
       "commanderName": "Charles Martel",
       "commanderTypeName": "Legendary",
       "civilization": "France",
@@ -563,7 +579,7 @@
       ]
     },
     {
-      "commanderImage": "Edward of Woodstock",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/08/edward-of-woodstock-1.jpg",
       "commanderName": "Edward of Woodstock",
       "commanderTypeName": "Legendary",
       "civilization": "Britain",
@@ -633,7 +649,7 @@
       ]
     },
     {
-      "commanderImage": "El Cid",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/02/el-cid-223x300.png",
       "commanderName": "El Cid",
       "commanderTypeName": "Legendary",
       "civilization": "Spain",
@@ -702,7 +718,7 @@
       ]
     },
     {
-      "commanderImage": "Frederick I",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/02/frederick-1-1-228x300.png",
       "commanderName": "Frederick I",
       "commanderTypeName": "Legendary",
       "civilization": "Germany",
@@ -769,7 +785,7 @@
       ]
     },
     {
-      "commanderImage": "Genghis Khan",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/04/genghis-khan-1.png",
       "commanderName": "Genghis Khan",
       "commanderTypeName": "Legendary",
       "civilization": "Mongol",
@@ -837,7 +853,7 @@
       ]
     },
     {
-      "commanderImage": "Guan Yu",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/12/guan-yu-rise-of-kingdoms-256x300.png",
       "commanderName": "Guan Yu",
       "commanderTypeName": "Legendary",
       "civilization": "China",
@@ -907,7 +923,7 @@
       ]
     },
     {
-      "commanderImage": "Hannibal Barca",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/02/hannibal-barca-136x300.png",
       "commanderName": "Hannibal Barca",
       "commanderTypeName": "Legendary",
       "civilization": "Others",
@@ -977,7 +993,7 @@
       ]
     },
     {
-      "commanderImage": "Ishida Mitsunari",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2020/03/ishida-mitsunari-177x300.png",
       "commanderName": "Ishida Mitsunari",
       "commanderTypeName": "Legendary",
       "civilization": "Japan",
@@ -1046,7 +1062,7 @@
       ]
     },
     {
-      "commanderImage": "Leonidas I",
+      "commanderImage": "https://rok.guide/wp-content/uploads/2019/12/leonidas-rise-of-kingdoms-265x300.png",
       "commanderName": "Leonidas I",
       "commanderTypeName": "Legendary",
       "civilization": "Others",
