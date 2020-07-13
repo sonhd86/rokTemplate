@@ -15,6 +15,24 @@
         {"title": "Infantry","image":"https://cdn.rok.guide/images/infantry.png"},
         {"title": "Mobility","image":"https://cdn.rok.guide/images/mobility.png"}
     ],
+    "commanderImages" : [
+        {"title": "Julius Caesar","image":"https://rok.guide/wp-content/uploads/2018/12/rise-of-civilizations-julius-caesar-274x300.png"},
+        {"title": "Æthelflæd","image":"https://rok.guide/wp-content/uploads/2019/06/aethelflaed-rise-of-kingdoms.png"},
+        {"title": "Alexander the Great","image":"https://rok.guide/wp-content/uploads/2019/06/alexander-rise-of-kingdoms-181x300.png"},
+        {"title": "Artemisia I","image":"https://rok.guide/wp-content/uploads/2020/03/artemisia-i-178x300.jpg"},
+        {"title": "Attila","image":"https://rok.guide/wp-content/uploads/2019/11/attila-rise-of-kingdoms-264x300.jpg"},
+        {"title": "CAO CAO","image":"https://rok.guide/wp-content/uploads/2019/02/cao-cao-300x285.png"},
+        {"title": "Charlemagne","image":"https://rok.guide/wp-content/uploads/2019/06/charlemagne-rise-of-kingdoms-300x300.jpg"},
+        {"title": "Charles Martel","image":"https://rok.guide/wp-content/uploads/2019/02/charles-martel-264x300.png"},
+        {"title": "Edward of Woodstock","image":"https://rok.guide/wp-content/uploads/2019/08/edward-of-woodstock-1.jpg"},
+        {"title": "El Cid","image":"https://rok.guide/wp-content/uploads/2019/02/el-cid-223x300.png"},
+        {"title": "Frederick I","image":"https://rok.guide/wp-content/uploads/2019/02/frederick-1-1-228x300.png"},
+        {"title": "Genghis Khan","image":"https://rok.guide/wp-content/uploads/2019/04/genghis-khan-1.png"},
+        {"title": "Guan Yu","image":"https://rok.guide/wp-content/uploads/2019/12/guan-yu-rise-of-kingdoms-256x300.png"},
+        {"title": "Hannibal Barca","image":"https://rok.guide/wp-content/uploads/2019/02/hannibal-barca-136x300.png"},
+        {"title": "Ishida Mitsunari","image":"https://rok.guide/wp-content/uploads/2020/03/ishida-mitsunari-177x300.png"},
+        {"title": "Leonidas I","image":"https://rok.guide/wp-content/uploads/2019/12/leonidas-rise-of-kingdoms-265x300.png"}
+    ],
   "listCommander": [
     {
       "commanderImage": "https://rok.guide/wp-content/uploads/2018/12/rise-of-civilizations-julius-caesar-274x300.png",
@@ -1128,74 +1146,6 @@
           "skillType": "Expertise",
           "skillUpgrades": [],
           "skillDescription": "When the army led by this commander has been reduced to less than 10% strength, increase all damage dealt by 400% and increase damage reduction by 50%, lasts for 10 seconds. This effect can trigger only once per hour after the army has left the city"
-        }
-      ]
-    },
-    {
-      "commanderImage": "",
-      "commanderName": "",
-      "commanderTypeName": "Legendary",
-      "civilization": "Others",
-      "civilizationDescription": "",
-      "commanderPosition": [
-        {
-          "img": "",
-          "title": ""
-        },
-        {
-          "img": "",
-          "title": ""
-        },
-        {
-          "img": "",
-          "title": ""
-        }
-      ],
-      "commanderDescription": "",
-      "skills": [
-        {
-          "skillImage": "",
-          "skillName": "",
-          "skillType": "Active Skill",
-          "skillUpgrades": [
-            ""
-          ],
-          "skillDescription": ""
-        },
-        {
-          "skillImage": "",
-          "skillName": "",
-          "skillType": "Passive Skill",
-          "skillUpgrades": [
-            "",
-            ""
-          ],
-          "skillDescription": ""
-        },
-        {
-          "skillImage": "",
-          "skillName": "",
-          "skillType": "Passive Skill",
-          "skillUpgrades": [
-            ""
-          ],
-          "skillDescription": ""
-        },
-        {
-          "skillImage": "",
-          "skillName": "",
-          "skillType": "Passive Skill",
-          "skillUpgrades": [
-            ""
-          ],
-          "skillDescription": ""
-        },
-        {
-          "skillImage": "",
-          "skillName": "",
-          "skillType": "Expertise",
-          "skillUpgrades": [],
-          "skillDescription": ""
         }
       ]
     }
