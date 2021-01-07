@@ -1,5 +1,5 @@
 {
-    "position" : [
+    "commanderPosition" : [
         {"title": "Cavalry","image":"https://cdn.rok.guide/images/cavalry.png"},
         {"title": "Conquering","image":"https://cdn.rok.guide/images/siege.png"},
         {"title": "Attack","image":"https://cdn.rok.guide/images/attack.png"},
@@ -22,18 +22,36 @@
         {"title": "Artemisia I","image":"https://rok.guide/wp-content/uploads/2020/03/artemisia-i-178x300.jpg"},
         {"title": "Attila","image":"https://rok.guide/wp-content/uploads/2019/11/attila-rise-of-kingdoms-264x300.jpg"},
         {"title": "CAO CAO","image":"https://rok.guide/wp-content/uploads/2019/02/cao-cao-300x285.png"},
-        {"title": "Charlemagne","image":"https://rok.guide/wp-content/uploads/2019/06/charlemagne-rise-of-kingdoms-300x300.jpg"},
+        {"title": "Charlemagne","image":"https://riseofkingdomsguides.com/wp-content/uploads/2020/03/Charlemagne_full-1.png"},
         {"title": "Charles Martel","image":"https://rok.guide/wp-content/uploads/2019/02/charles-martel-264x300.png"},
         {"title": "Edward of Woodstock","image":"https://rok.guide/wp-content/uploads/2019/08/edward-of-woodstock-1.jpg"},
         {"title": "El Cid","image":"https://rok.guide/wp-content/uploads/2019/02/el-cid-223x300.png"},
         {"title": "Frederick I","image":"https://rok.guide/wp-content/uploads/2019/02/frederick-1-1-228x300.png"},
         {"title": "Genghis Khan","image":"https://rok.guide/wp-content/uploads/2019/04/genghis-khan-1.png"},
-        {"title": "Guan Yu","image":"https://rok.guide/wp-content/uploads/2019/12/guan-yu-rise-of-kingdoms-256x300.png"},
+        {"title": "Guan Yu","image":"https://riseofkingdomsguides.com/wp-content/uploads/2020/01/Guan-Yu_full-1.png"},
         {"title": "Hannibal Barca","image":"https://rok.guide/wp-content/uploads/2019/02/hannibal-barca-136x300.png"},
         {"title": "Ishida Mitsunari","image":"https://rok.guide/wp-content/uploads/2020/03/ishida-mitsunari-177x300.png"},
         {"title": "Leonidas I","image":"https://rok.guide/wp-content/uploads/2019/12/leonidas-rise-of-kingdoms-265x300.png"}
     ],
-  "listCommander": [
+    "commanderType" : [
+      {"title": "Julius Caesar","typeName":"Legendary"},
+      {"title": "Æthelflæd","typeName":"Legendary"},
+      {"title": "Alexander the Great","typeName":"Legendary"},
+      {"title": "Artemisia I","typeName":"Legendary"},
+      {"title": "Attila","typeName":"Legendary"},
+      {"title": "CAO CAO","typeName":"Legendary"},
+      {"title": "Charlemagne","typeName":"Legendary"},
+      {"title": "Charles Martel","typeName":"Legendary"},
+      {"title": "Edward of Woodstock","typeName":"Legendary"},
+      {"title": "El Cid","typeName":"Legendary"},
+      {"title": "Frederick I","typeName":"Legendary"},
+      {"title": "Genghis Khan","typeName":"Legendary"},
+      {"title": "Guan Yu","typeName":"Legendary"},
+      {"title": "Hannibal Barca","typeName":"Legendary"},
+      {"title": "Ishida Mitsunari","typeName":"Legendary"},
+      {"title": "Leonidas I","typeName":"Legendary"}
+  ],
+  "commanderList": [
     {
       "commanderImage": "Julius Caesar",
       "commanderName": "Julius Caesar",
@@ -388,7 +406,7 @@
     },
     {
       "commanderImage": "CAO CAO",
-      "commanderName": "CAO CAO",
+      "commanderName": "Cao Cao",
       "commanderTypeName": "Legendary",
       "civilization": "China",
       "civilizationDescription": "Conqueror of Chaos",
